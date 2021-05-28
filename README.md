@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**spytensor/spytensor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhengye1995/zhengye1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![bigballon's github stats](https://github-readme-stats.vercel.app/api?username=zhengye1995&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/zhengye1995)
