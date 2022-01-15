@@ -1,18 +1,24 @@
-### Hi there 👋
+### Hi there 👋 
+![](https://komarev.com/ghpvc/?username=spytensor&label=PROFILE+VIEWS)
+&emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 
-<!--
-**zhengye1995/zhengye1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🤑 I’m currently interested in Quant  
+ 📫 How to reach me: 17600413737@163.com
+ 
+<!-- GitHub Readme Stats -->
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=spytensor&theme=algolia&show_icons=trueline_height=21" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spytensor&theme=algolia&layout=compact" />
+</div>
 
-Here are some ideas to get you started:
+<!-- GitHub Profile Trophy & GitHub Streak Stats -->
+<div align="center">
+ <img height="208px" src="https://github-profile-trophy.vercel.app/?username=spytensor&theme=algolia&row=2&column=3&no-frame=true" />
+ <img height="208px" src="https://github-readme-streak-stats.herokuapp.com/?user=spytensor&theme=algolia" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![bigballon's github stats](https://github-readme-stats.vercel.app/api?username=spytensor&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/spytensor)
+<!-- GitHub Activity Graph -->
+<div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=spytensor&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
