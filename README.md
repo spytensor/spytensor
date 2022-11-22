@@ -5,7 +5,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 
- 🤑 I’m currently interested in Quant  
+ 🤑 I’m currently interested in Quant/CV 
  📫 How to reach me: 17600413737@163.com
  
 <!-- GitHub Readme Stats -->
